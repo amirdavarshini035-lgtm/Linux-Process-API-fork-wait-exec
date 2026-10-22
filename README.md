@@ -134,4 +134,3 @@ int main() {
 
 # RESULT:
 The programs are executed successfully.
-](https://github.com/madhumitha443/Linux-Process-API-fork-wait-exec)
